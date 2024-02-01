@@ -1,0 +1,27 @@
+{
+  "configurations" : [
+    {
+      "id" : "6523E440-5010-4CDE-A0CA-E5CE6A2E39DA",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "commandLineArgumentEntries" : [
+      {
+        "argument" : "--test"
+      }
+    ],
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:lab3CodeCoverage.xcodeproj",
+      "identifier" : "942F2C792B6C06720034784C",
+      "name" : "lab3CodeCoverage"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
